@@ -48,9 +48,9 @@ For his valuable guideline to implement sign up page and improve better UI in ou
     - E-mail :  tufailahmed2018331010@gmail.com
     - Reg. No: 2018331010
     
- ## Shahnur milon showrav
+ ## Shanur milon showrav
     - Cell: 01646020542
-    - E-mail: bappishowrav@gmail.com
+    - E-mail: pultibuddi@gmail.com
     - Reg.no: 2018331100
     
     
